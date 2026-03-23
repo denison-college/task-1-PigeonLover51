@@ -1,6 +1,5 @@
 # Connect 4
-
-This game will blah blab
-1.
-2.
-3. 
+## Start 
+### 2 player only
+### No lag
+### Fun 2 play with buddies
